@@ -109,7 +109,7 @@ History Screen
 
 # Wireframes
 
-(Add your hand-drawn or digital wireframe images here)
+<img width="4720" height="3280" alt="IMG_1005" src="https://github.com/user-attachments/assets/8b335a5d-599b-4087-ac22-638fe902bb6e" />
 
 
 # Schema
